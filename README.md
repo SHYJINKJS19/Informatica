@@ -1,7 +1,5 @@
 Creating a Folder in the PowerCenter Repository
 
-Okay, let's break down creating folders in the PowerCenter Repository with clear sentences and examples:
-
 **1. Organizing Your Work with Folders:**
 
 * **Simple Explanation:** Think of folders like drawers in a filing cabinet. They help you keep your PowerCenter work organized.
