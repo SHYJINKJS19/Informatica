@@ -1,0 +1,46 @@
+
+**Informatica Domain:**
+
+* Think of the Domain as the central control room for Informatica PowerCenter. It manages everything and makes sure all parts work together.
+* The Service Manager, which helps applications connect, works with the Domain.
+* The Domain handles key parts of PowerCenter, like the Integration Service, Web Services Hub, and other services.
+
+**Informatica Services:**
+
+* These are the different tools that do specific jobs:
+    * **Data Integration Service:** Helps move and transform data.
+    * **Model Repository Service:** Manages the design and structure of your data processes.
+    * **Analyst Service:** Helps analyze and understand your data.
+
+**PowerCenter Repository:**
+
+* This is like a database where Informatica stores all the information about your data processes (ETL).
+
+**Informatica Administrator:**
+
+* This is a website used to manage and secure Informatica PowerCenter. It connects to the Domain.
+
+**Domain Configuration:**
+
+* This is where you set up and manage the Domain, Service Manager, and the main server.
+
+**PowerCenter Client:**
+
+* These are the tools you use to design and run your data processes:
+    * **Repository Manager:** Manages the Repository.
+    * **Workflow Designer:** Creates the workflows.
+    * **Workflow Monitor:** Tracks the progress of workflows.
+    * **Workflow Manager:** Manages workflows.
+    * This is where you define your data sources, targets, and how to transform the data (mappings, maplets).
+
+**PowerCenter Repository Service:**
+
+* This service handles requests from the PowerCenter Client to change the metadata (information about the data processes).
+* It also updates the metadata when workflows are run by the Integration Service.
+
+**PowerCenter Integration Service:**
+
+* This is the engine that actually moves the data. It takes data from the sources and puts it into the targets.
+
+
+
